@@ -1,0 +1,10 @@
+name: try1
+channels:
+  - nodefaults
+dependencies:
+  - python=3.7   # or 2.7
+  - numpy=1.9.*
+  - flask
+  - pip
+  - pip:
+    - Flask-Testing
