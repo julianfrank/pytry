@@ -5,6 +5,7 @@ dependencies:
   - python=3
   - numpy
   - pip=19.1.1
-  - pip
-  - tensorflow
-  - keras
+  - pip:
+    - tensorflow==2.0.0-alpha0
+  #- tensorflow
+  #- keras
