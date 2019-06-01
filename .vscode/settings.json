@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/home/jf/anaconda3/envs/try1/bin/python"
+    "python.pythonPath": "/home/jf/anaconda3/envs/try1/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.pylintPath": ""
 }
